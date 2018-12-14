@@ -24,7 +24,7 @@ module.exports = {
 Intercom should now be available through the [`$intercom` object](https://github.com/johnnynotsolucky/vue-intercom#api)
 in your Vue instance.
 
-[View Vue-Intercom for more info](https://www.npmjs.com/package/vue-intercom#usage)
+[View vue-intercom for more info](https://github.com/johnnynotsolucky/vue-intercom#usage).
 
 ## License
 This repository is licensed under the ISC license.
