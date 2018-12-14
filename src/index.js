@@ -3,7 +3,7 @@ module.exports = (options = {}) => {
         enhanceAppFiles: [{
             name: 'intercom',
             content: 'import VueIntercom from "vue-intercom";' +
-                `export default ({ Vue }) => { Vue.use(VueIntercom, ${options}) }`
+                `export default ({ Vue }) => { Vue.use(VueIntercom, ${JSON.stringify(options)}) }`
         }]
     }
 };
