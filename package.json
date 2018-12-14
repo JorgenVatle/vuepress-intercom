@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/JorgenVatle/vuepress-intercom/issues"
   },
-  "homepage": "https://github.com/JorgenVatle/vuepress-intercom#readme"
+  "homepage": "https://github.com/JorgenVatle/vuepress-intercom#readme",
+  "dependencies": {
+    "vue-intercom": "^1.0.12"
+  }
 }
