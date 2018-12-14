@@ -20,6 +20,12 @@ module.exports = {
 }
 ```
 
+## Usage
+Intercom should now be available through the [`$intercom` object](https://www.npmjs.com/package/vue-intercom#usage)
+in your Vue instance.
+
+[View Vue-Intercom for more info](https://www.npmjs.com/package/vue-intercom#usage)
+
 ## License
 This repository is licensed under the ISC license.
 
