@@ -21,7 +21,7 @@ module.exports = {
 ```
 
 ## Usage
-Intercom should now be available through the [`$intercom` object](https://www.npmjs.com/package/vue-intercom#usage)
+Intercom should now be available through the [`$intercom` object](https://github.com/johnnynotsolucky/vue-intercom#api)
 in your Vue instance.
 
 [View Vue-Intercom for more info](https://www.npmjs.com/package/vue-intercom#usage)
