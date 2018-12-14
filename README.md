@@ -11,11 +11,9 @@ Within your VuePress config (`.vuepress/config.js`), add the plugin:
 ```js
 module.exports = {
     // ...
-    plugins: {
-        'vuepress-intercom': {
-            appId: 'your-app-id'
-        },
-    }
+    plugins: [
+        [require('vuepress-intercom'), { appId: 'your-app-id' }]
+    ],
     // ...
 }
 ```
