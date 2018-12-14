@@ -7,7 +7,7 @@ npm install vuepress-intercom
 ```
 
 ## Setup
-> .vuepress/config.js
+Within your VuePress config (`.vuepress/config.js`), add the plugin:
 ```js
 module.exports = {
     // ...
