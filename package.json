@@ -1,6 +1,6 @@
 {
   "name": "vuepress-intercom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Intercom plugin for VuePress",
   "main": "src/index.js",
   "scripts": {
