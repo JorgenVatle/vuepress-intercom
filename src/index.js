@@ -1,4 +1,4 @@
-module.exports = (options) => {
+module.exports = (options = {}) => {
     return {
         enhanceAppFiles: [{
             name: 'intercom',
